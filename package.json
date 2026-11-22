@@ -1,0 +1,17 @@
+{
+  "name": "ai-team-worker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI TEAM WORKER Android wrapper",
+  "scripts": {
+    "android:init": "cap add android",
+    "android:sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/core": "^7.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.0.0"
+  }
+}
