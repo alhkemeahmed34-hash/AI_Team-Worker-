@@ -1,0 +1,8 @@
+{
+  "appId": "com.aiteamworker.app",
+  "appName": "AI TEAM WORKER",
+  "webDir": ".",
+  "server": {
+    "androidScheme": "https"
+  }
+}
